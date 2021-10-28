@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @w4lck3r
 - 👀 I’m interested in security , apps dev , system dev ...
-- 🌱 I’m currently learning 3 th year bachelor in University of Lille
+- 🌱 I’m currently in 3 th year bachelor in University of Lille
 - 💞️ I’m looking for traineeship
 - 📫 How to reach me badr-eddine.salmi@outlook.com
 <!---
