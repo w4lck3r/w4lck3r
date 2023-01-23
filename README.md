@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @w4lck3r
-- 👀 I’m interested in security , apps dev , system dev , back-end ...
-- 🌱 I’m currently in L3 in University of Lille
-- 💞️ I’m looking for internship
+- 👋 Hi, My name is Badr-eddine or  you can call me @Walcker
+- 👀 I’m interested in security , apps dev , back-end ...
+
 - 📫 How to reach me badr-eddine.salmi@outlook.com
 <!---
 w4lck3r/w4lck3r is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
